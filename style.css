@@ -1,0 +1,52 @@
+/* FONT */
+@import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Marcellus&display=swap');
+
+
+#navbarNav {
+    font-family: 'Pokemon Solid', sans-serif;
+    letter-spacing: 3px;
+}
+
+body {
+  background-color: skyblue;
+  text-align: center;
+}
+
+p1 {
+  background-color: #ff2d00;
+}
+
+footer {
+  background-color: lightblue;
+}
+
+.find-us-box a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.gif {
+  font-family: 'Pokemon Solid', sans-serif;
+  letter-spacing: 7px;
+  background-image: url("https://cdn.glitch.global/40633671-2f4a-4cc3-b8d7-f9690a8aa0c1/pokemon?v=1730935999680");
+  height: 180px;
+}
+
+#about img {
+    max-width: 100%;
+}
+
+.word {
+  margin: auto;
+  color: gray;
+  font: 700 normal 1.3em 'Pokemon Solid', sans-serif;
+  letter-spacing: 9px;
+/*   text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324; */
+}
+
+#purpose, p {
+   font-family: "Cabin", sans-serif;
+  font-size: 1.1em;
+}
